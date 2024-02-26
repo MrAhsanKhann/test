@@ -1,0 +1,42 @@
+*{
+ 
+
+}
+.container{
+height: 70px;
+display: flex;
+background-color: #5c09d0;
+color: white;
+justify-content: space-between;
+padding-left: 25px;
+padding-right: 25px;
+align-items: center;
+
+}
+.grp1{
+
+display: flex;
+align-items: center;
+gap: 10px;
+
+
+}
+.item2{
+
+
+
+}
+.btr{
+display: flex;
+height: 30px;
+margin-top: 20px;
+justify-content: space-evenly;
+gap: 10px;
+}
+.lab{
+    height: 30px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
